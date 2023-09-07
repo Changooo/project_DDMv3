@@ -2,7 +2,7 @@
 
 DDM ver3
 
-![Video Label](https://raw.githubusercontent.com/Changooo/project_DDMv3/thumbnail.png)
+![Video Label](https://raw.githubusercontent.com/Changooo/project_DDMv3/main/thumbnail.png)
 
 
 ## 프로젝트 소개 (Introduction)
